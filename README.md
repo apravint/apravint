@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm apravint 👋
 
-<!--
-**apravint/apravint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** passionate about building impactful solutions with modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 Top Skills & Technologies
+- **Spring Boot** (Java)
+- **Angular** (Frontend)
+- **Flutter** (Cross-platform Mobile)
+- **AI** (Artificial Intelligence & Machine Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Favorite Projects & Interests
+- **Flutter**: Creating beautiful, fast, and flexible mobile applications.
+- **Ubuntu**: Powering development and innovation on a stable, open-source OS.
+
+---
+
+Feel free to connect or check back soon for more updates!
+
+<!-- Add your social links or a fun fact here later -->
