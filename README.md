@@ -1,4 +1,4 @@
-# Hi, I'm apravint 👋
+# Hi, I'm Pravin 👋
 
 I’m a **Software Engineer** passionate about building impactful solutions with modern technologies.
 
