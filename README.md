@@ -61,6 +61,24 @@ Here are some of my featured desktop customization and productivity projects:
       <p>Dynamic palette synchronization engine for <b>Waybar & Wofi</b>. Automatically converts TOML palettes into CSS variables and live-reloads Waybar without restarting the session.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 <a href="https://github.com/apravint/BookGeneratorAI">BookGeneratorAI</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/Multi--Agent-Architecture-purple.svg" />
+      </p>
+      <p>Executive-grade <b>multi-agent book generation engine</b> with Tamil (தமிழ்) and English support. Features hierarchical state isolation, beat-by-beat scene drafting, and adversarial anti-slop critics.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 <a href="https://github.com/apravint/github-traffic">github-traffic</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/CI%2FCD-Automated-brightgreen.svg" />
+      </p>
+      <p>Automated long-term <b>traffic, clone, and visitor analytics archiver</b> for all GitHub repositories, surpassing GitHub's default 14-day traffic history limit.</p>
+    </td>
+  </tr>
 </table>
 
 ---
