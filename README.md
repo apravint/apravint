@@ -22,9 +22,16 @@
 
 ## 🚀 Featured Open Source Projects
 
-Here are some of my featured desktop customization and productivity projects:
-
+<table>
   <tr>
+    <td width="50%">
+      <h3 align="center">💎 <a href="https://github.com/apravint/devpulse-saas">devpulse-saas</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/SaaS-Active-brightgreen.svg" />
+      </p>
+      <p>Autonomous <b>AI Code Security & Quality SaaS Platform</b>. Real-time vulnerability playground, GitHub PR reviewer bot, and subscription billing management.</p>
+    </td>
     <td width="50%">
       <h3 align="center">⚡ <a href="https://github.com/apravint/AI-DevPulse">AI-DevPulse</a></h3>
       <p align="center">
@@ -33,6 +40,8 @@ Here are some of my featured desktop customization and productivity projects:
       </p>
       <p>Autonomous <b>AI Code Reviewer, Security Vulnerability Scanner & Refactoring Agent CLI</b>. Supports local Ollama, Gemini API, and GitHub Actions CI/CD.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🌺 <a href="https://github.com/apravint/tamil-ai-suite">tamil-ai-suite</a></h3>
       <p align="center">
@@ -41,7 +50,6 @@ Here are some of my featured desktop customization and productivity projects:
       </p>
       <p>Comprehensive <b>Tamil NLP, Phonetic Transliteration, Sentiment Analyzer & TTS Voice Suite</b> for Termux and Linux environments.</p>
     </td>
-  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🌌 <a href="https://github.com/apravint/omarchy-ubuntu">omarchy-ubuntu</a></h3>
