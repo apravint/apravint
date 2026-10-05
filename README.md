@@ -43,6 +43,16 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🦅 <a href="https://github.com/apravint/claw-termux-agent">claw-termux-agent</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/Agent-Mobile-orange.svg" />
+      </p>
+      <p>Autonomous <b>Web Scraping, Privacy Search & AI Automation Daemon</b> tuned for Termux & mobile Linux.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🌺 <a href="https://github.com/apravint/tamil-ai-suite">tamil-ai-suite</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
