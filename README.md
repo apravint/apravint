@@ -45,7 +45,7 @@ Here are some of my featured desktop customization and productivity projects:
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">☯️ <a href="https://github.com/apravint/dual-desktop-ubuntu">dual-desktop-ubuntu</a></h3>
+      <h3 align="center">☯️ <a href="https://github.com/apravint/dual-desktop-hyprland">dual-desktop-hyprland</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
         <img src="https://img.shields.io/badge/Session-Dual%20Wayland-orange.svg" />
@@ -53,7 +53,7 @@ Here are some of my featured desktop customization and productivity projects:
       <p>Orchestrator for running both a traditional <b>floating Windows 11 Plasma desktop</b> and a <b>tiling Omarchy Hyprland desktop</b> on the same machine with zero config conflicts.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎨 <a href="https://github.com/apravint/waybar-theme-sync">waybar-theme-sync</a></h3>
+      <h3 align="center">🎨 <a href="https://github.com/apravint/waybar-theme-switcher">waybar-theme-switcher</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
         <img src="https://img.shields.io/badge/Python-3.8+-3776AB.svg" />
@@ -69,6 +69,15 @@ Here are some of my featured desktop customization and productivity projects:
         <img src="https://img.shields.io/badge/Multi--Agent-Architecture-purple.svg" />
       </p>
       <p>Executive-grade <b>multi-agent book generation engine</b> with Tamil (தமிழ்) and English support. Features hierarchical state isolation, beat-by-beat scene drafting, and adversarial anti-slop critics.</p>
+    </td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 <a href="https://github.com/apravint/termux-dotfiles">termux-dotfiles</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/Android-Termux-green.svg" />
+      </p>
+      <p>Modern <b>Termux terminal customization</b> & automated <b>Termux:X11 XFCE GUI Desktop</b> launcher with Starship prompt, Zsh, eza, and OpenClaw AI CLI.</p>
     </td>
     <td width="50%">
       <h3 align="center">📈 <a href="https://github.com/apravint/github-traffic">github-traffic</a></h3>
