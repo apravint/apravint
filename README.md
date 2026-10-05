@@ -24,7 +24,6 @@
 
 Here are some of my featured desktop customization and productivity projects:
 
-<table>
   <tr>
     <td width="50%">
       <h3 align="center">⚡ <a href="https://github.com/apravint/AI-DevPulse">AI-DevPulse</a></h3>
@@ -35,6 +34,16 @@ Here are some of my featured desktop customization and productivity projects:
       <p>Autonomous <b>AI Code Reviewer, Security Vulnerability Scanner & Refactoring Agent CLI</b>. Supports local Ollama, Gemini API, and GitHub Actions CI/CD.</p>
     </td>
     <td width="50%">
+      <h3 align="center">🌺 <a href="https://github.com/apravint/tamil-ai-suite">tamil-ai-suite</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/NLP-Tamil-orange.svg" />
+      </p>
+      <p>Comprehensive <b>Tamil NLP, Phonetic Transliteration, Sentiment Analyzer & TTS Voice Suite</b> for Termux and Linux environments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🌌 <a href="https://github.com/apravint/omarchy-ubuntu">omarchy-ubuntu</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -42,7 +51,6 @@ Here are some of my featured desktop customization and productivity projects:
       </p>
       <p>Authentic <b>Omarchy</b> Hyprland tiling suite for Ubuntu Linux. Features 22 curated themes, glass acrylic Waybar, automatic Picture-in-Picture docking, and clipboard history.</p>
     </td>
-  </tr>
     <td width="50%">
       <h3 align="center">🪟 <a href="https://github.com/apravint/win11-kde-plasma">win11-kde-plasma</a></h3>
       <p align="center">
