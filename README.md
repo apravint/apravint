@@ -70,6 +70,24 @@
       <p>Authentic <b>Omarchy</b> Hyprland tiling suite for Ubuntu Linux. Features 22 curated themes, glass acrylic Waybar, automatic Picture-in-Picture docking, and clipboard history.</p>
     </td>
     <td width="50%">
+      <h3 align="center">🪟 <a href="https://github.com/apravint/omarchy-windows">omarchy-windows</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/WM-GlazeWM-blue.svg" />
+      </p>
+      <p>Authentic <b>Omarchy</b> glass acrylic tiling desktop suite for Windows 10 & 11. GlazeWM tiling, Yasb status bar, and AutoHotkey v2 bridge.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍎 <a href="https://github.com/apravint/omarchy-mac">omarchy-mac</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+        <img src="https://img.shields.io/badge/WM-AeroSpace-purple.svg" />
+      </p>
+      <p>Authentic <b>Omarchy</b> SIP-safe glass acrylic tiling desktop suite for macOS. AeroSpace tiling, Sketchybar, and Jankyborders active window glow.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">🪟 <a href="https://github.com/apravint/win11-kde-plasma">win11-kde-plasma</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
