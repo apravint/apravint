@@ -88,12 +88,12 @@
       <p>Authentic <b>Omarchy</b> SIP-safe glass acrylic tiling desktop suite for macOS. AeroSpace tiling, Sketchybar, and Jankyborders active window glow.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🪟 <a href="https://github.com/apravint/win11-kde-plasma">win11-kde-plasma</a></h3>
+      <h3 align="center">📱 <a href="https://github.com/apravint/omarchy-launcher-android">omarchy-launcher-android</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-        <img src="https://img.shields.io/badge/KDE-Plasma%206-teal.svg" />
+        <img src="https://img.shields.io/badge/Android-Launcher-green.svg" />
       </p>
-      <p>Turnkey, pixel-perfect <b>Windows 11 transformation suite for KDE Plasma 6</b>. Centered taskbar, glowing active pill indicators, Segoe UI typography, and Dark Bloom wallpaper.</p>
+      <p>Minimalist glassmorphic <b>Android Home Screen Launcher & AI Assistant Suite</b>. Built-in AI prompt bar, Omarchy 22 themes, and Termux quick-launch.</p>
     </td>
   </tr>
   <tr>
