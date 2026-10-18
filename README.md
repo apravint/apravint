@@ -136,6 +136,23 @@
         <img src="https://img.shields.io/badge/Auditor-Canny%20Evidence-brightgreen.svg?style=flat-square" />
       </p>
       <p><b>Tool-Call Firewall & Evidence Ledger for Autonomous Agents</b>. Intercepts bash calls, evaluates 7 risk dimensions, fails closed on destructive commands, and audits claimed "done" states against tangible artifacts.</p>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌲 <a href="https://github.com/apravint/agent-tree">agent-tree</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Architecture-Hierarchical%20Multi--Tier-brightgreen.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Orchestrator-Architect%20%E2%86%92%20Workers-blue.svg?style=flat-square" />
+      </p>
+      <p><b>Hierarchical Multi-Tier Agent Orchestration Engine</b>. Matches task complexity to model cost (Tier 1 Opus/Pro Architect &rarr; Tier 2 Coordinator &rarr; Tier 3 Haiku/Ollama Workers) with deterministic quality gates before advancing.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/apravint/smart-router">smart-router</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cost%20Reduction-Up%20to%2085%25-green.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cache-Local%20Disk%20SHA--256-orange.svg?style=flat-square" />
+      </p>
+      <p><b>Intelligent LLM Complexity Scorer, Disk Cache & Dynamic Model Router</b>. Classifies prompt difficulty on a 1–10 scale, routes easy queries to $0 local Ollama models, and serves repeated questions from disk cache in &lt;5ms.</p>
     </td>
   </tr>
 </table>
