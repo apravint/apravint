@@ -136,6 +136,7 @@
         <img src="https://img.shields.io/badge/Auditor-Canny%20Evidence-brightgreen.svg?style=flat-square" />
       </p>
       <p><b>Tool-Call Firewall & Evidence Ledger for Autonomous Agents</b>. Intercepts bash calls, evaluates 7 risk dimensions, fails closed on destructive commands, and audits claimed "done" states against tangible artifacts.</p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
@@ -186,12 +187,20 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Ecosystem & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apravint&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="Pravin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apravint&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/apravint">
+    <img src="https://streak-stats.demolab.com?user=apravint&theme=tokyo-night&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/apravint?style=for-the-badge&logo=github&color=00F0FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/Sovereign_OS-IRAM_26.10-05FFA1?style=for-the-badge&logo=linux&logoColor=black" alt="OS" />
+  <img src="https://img.shields.io/badge/Agent_Tools-21_FastMCP_Tools-B800FF?style=for-the-badge&logo=openai" alt="MCP" />
+  <img src="https://img.shields.io/badge/Status-Active_Architecture-FF006E?style=for-the-badge&logo=git" alt="Status" />
+</p>
 
 ---
 
