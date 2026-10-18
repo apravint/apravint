@@ -3,124 +3,167 @@
 # Hi, I'm Pravin 👋
 
 <a href="https://github.com/apravint">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Principal+Systems+Engineer+%7C+AI+Agent+Architect;Creator+of+IRAM+OS+(Autonomous+Agentic+Desktop);Multi-Tier+Agent+Trees+%26+LLM+Routing+Engines;Linux+Kernel%2C+Wayland+%26+High-Performance+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Autonomous+Agentic+OS+Architect+%7C+Principal+Systems+Engineer;Creator+of+IRAM+OS+(Ubuntu+26.10+%2B+Hyprland+0.56);Architect+of+IRAM+3D+Spatial+Suite+%26+VoiceStudio+Local+AI;Cyclic+Agent+Harness%C2%B2+%26+Multi-Tier+Agent+Trees;Wayland%2C+PipeWire+DSP%2C+Three.js+WebGL+%26+Live+ISO+Mastering" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Architecting next-generation autonomous AI agents, resilient Linux systems, and developer productivity tooling.</b>
+  <b>Architecting sovereign autonomous agentic operating systems, spatial 3D desktop computing, and local AI multimodal toolchains.</b>
 </p>
 
 <p align="center">
   <a href="mailto:apravint@gmail.com"><img src="https://img.shields.io/badge/Email-apravint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/apravint"><img src="https://img.shields.io/badge/GitHub-apravint-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/apravint/iram-os"><img src="https://img.shields.io/badge/OS-IRAM%20OS-7AA2F7?style=for-the-badge&logo=linux&logoColor=white" alt="IRAM OS" /></a>
+  <a href="https://github.com/apravint/iram-os"><img src="https://img.shields.io/badge/Flagship-IRAM%20OS%20v26.10-00F0FF?style=for-the-badge&logo=linux&logoColor=black" alt="IRAM OS" /></a>
+  <a href="https://github.com/apravint/iram-3d"><img src="https://img.shields.io/badge/Spatial-IRAM%203D-FF006E?style=for-the-badge&logo=three.js&logoColor=white" alt="IRAM 3D" /></a>
+  <a href="https://github.com/apravint/iram-voice"><img src="https://img.shields.io/badge/Audio-IRAM%20Voice-05FFA1?style=for-the-badge&logo=audacity&logoColor=black" alt="IRAM Voice" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🌌 Flagship: IRAM OS
+## 🌌 The Sovereign Agentic OS Stack
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center">🚀 <a href="https://github.com/apravint/iram-os">IRAM OS — Autonomous Agentic Desktop Operating System</a></h3>
-      <p align="center">
-        <a href="https://github.com/apravint/iram-os/releases/latest"><img src="https://img.shields.io/github/v/release/apravint/iram-os?label=Live%20ISO&color=brightgreen&style=flat-square" /></a>
-        <img src="https://img.shields.io/badge/Compositor-Hyprland%20Wayland-00A98F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Audio-PipeWire%20Routing-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Themes-22%20Synchronized-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
-      </p>
-      <p>A turnkey, production-grade Linux distribution engineered for autonomous AI development. Features instant multi-monitor geometry persistence, dynamic PipeWire audio routing, 22 live-switching themes, a self-healing systemd watchdog, and bootable hybrid UEFI/BIOS Live ISO mastering built on GitHub Actions.</p>
-    </td>
-  </tr>
-</table>
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                                 IRAM OS ECOSYSTEM                                      │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  AUTONOMOUS AGENT RUNTIME & REASONING LAYER                                            │
+│  • iram-harness2 (Cyclic State Machine: Plan -> Act -> Verify -> Reflect)             │
+│  • agent-tree (Tier 1 Architect -> Tier 2 Coordinator -> Tier 3 Grunt Workers)       │
+│  • smart-router (Prompt Complexity Scorer & RouteLLM Disk Cache)                       │
+│  • toolgate (Safety Firewall & Canny Evidence Ledger)                                 │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  SPATIAL 3D & VISUAL COMPUTING (Three.js WebGL2)                                       │
+│  • iram-3d (Interactive CAD/STL/OBJ Inspector & Biomolecule Visualizer)                │
+│  • iram-agent-graph (Force-Directed 3D Swarm Topology & IPC Photon Conduits)           │
+│  • hypr-theme-studio (18 Curated Themes, Zero-Restart Dispatcher & 3D PBR Shaders)     │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  MULTIMODAL CREATIVE & SOVEREIGN VOICE LAYER                                           │
+│  • iram-voice (VoiceStudio Local Voice Cloning, Voice Design & Stdio MCP Server)       │
+│  • iram-video (Veo/Wan/Hunyuan Generative Film Engine, Mukta Malar HarfBuzz Typography)│
+│  • storytold-craft-suite (PhotoCraft, VectorCraft, FilmCraft, SoundCraft, CADCraft)   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  SCIENTIFIC & DOMAIN PROTOTYPING                                                       │
+│  • scientific-agent-skills (build123d Lab CAD, RDKit, PDB Proteins, FDA Lookups)      │
+│  • qodex ($0 Open-Source Static Code Reviewer & Secret Gatekeeper)                     │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  CORE DESKTOP & HARDWARE ABSTRACTION                                                   │
+│  • Ubuntu 26.10 Stonking Stingray • Linux 6.17 • Hyprland 0.56 (0px Sharp Geometry)  │
+│  • PipeWire Studio Audio Routing & WirePlumber DSP • Live Hybrid ISO Mastering        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🤖 Standout AI Infrastructure & Developer Tools
+## 🏛️ Flagship Repositories & AI Toolchains
 
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">🌌 <a href="https://github.com/apravint/iram-os">IRAM OS</a></h3>
+      <p align="center">
+        <a href="https://github.com/apravint/iram-os/releases/latest"><img src="https://img.shields.io/github/v/release/apravint/iram-os?label=v26.10.0&color=00F0FF&style=flat-square" /></a>
+        <img src="https://img.shields.io/badge/Ubuntu-26.10%20Stonking-E95420?style=flat-square" />
+        <img src="https://img.shields.io/badge/Compositor-Hyprland%200.56-brightgreen?style=flat-square" />
+      </p>
+      <p><b>The Sovereign Autonomous Agentic Desktop Operating System</b>. Turnkey 64-bit Linux distribution featuring sharp geometric tiling, zero-restart live theme switching, studio PipeWire audio routing, and a deeply integrated autonomous agentic runtime.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🪐 <a href="https://github.com/apravint/iram-3d">iram-3d</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Engine-Three.js%20r128-cyan.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spatial-WebGL2-FF006E.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
+      </p>
+      <p><b>Interactive Spatial Computing Suite for Linux Desktops</b>. Hardware-accelerated 3D CAD/STL/OBJ mesh inspector, force-directed 3D multi-agent swarm graph with animated IPC photon conduits, and 60 FPS motion graphics studio.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎙️ <a href="https://github.com/apravint/iram-voice">iram-voice</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/VoiceStudio-Local%20ElevenLabs-05FFA1.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-MCP%20Server-purple.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Languages-646-blue.svg?style=flat-square" />
+      </p>
+      <p><b>Open-Source VoiceStudio & MCP Server for AI Agents</b>. Zero-shot voice cloning from 5–10s audio, prompt-based voice design, automated video dubbing with sidechain ducking (-14dB), and stdio MCP server for Antigravity and Claude.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ <a href="https://github.com/apravint/iram-harness2">iram-harness2</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Loop-Cyclic%20Workflow-orange.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Inspired-Google%20Research-blue.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Memory-Qdrant%20Episodic-red.svg?style=flat-square" />
+      </p>
+      <p><b>Cyclic Multi-Agent Workflow & Experience Reflector</b>. Deterministic state machine (Plan -> Act -> Verify -> Reflect) preventing infinite loops by enforcing verification gates and indexing lessons into episodic vector memory.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧬 <a href="https://github.com/apravint/scientific-agent-skills">scientific-agent-skills</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Skills-179%20Tools-brightgreen.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/CAD-build123d-blue.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Biotech-RDKit%20%7C%20PDB-purple.svg?style=flat-square" />
+      </p>
+      <p><b>Autonomous Scientific & Laboratory Engineering Agent Skills</b>. Parametric 3D lab hardware CAD (microfluidics, optical mounts), RDKit molecular modeling, PDB protein structures, FDA/patent lookups, and LaTeX Beamer slide deck builders.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 <a href="https://github.com/apravint/hypr-theme-studio">hypr-theme-studio</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Themes-18%20Palettes-purple.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sync-Zero--Restart-00F0FF.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Preview-3D%20PBR%20Shaders-yellow.svg?style=flat-square" />
+      </p>
+      <p><b>Zero-Restart Theme Switcher & 3D WebGL Palette Studio</b>. GTK3 live preview card grid + Three.js 3D PBR material simulator. Switches Hyprland borders, Waybar gradients, Alacritty, and Neovim in &lt;100ms with zero restarts.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 <a href="https://github.com/apravint/iram-video">iram-video</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Generative-Veo%20%7C%20Wan%20%7C%20Hunyuan-FF0055.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Resolution-1080p%20%7C%204K-gold.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bilingual-English%20%7C%20%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-purple.svg?style=flat-square" />
+      </p>
+      <p><b>Universal High-Quality Video & Film AI Engine</b>. Transforms screenplays or codebases into broadcast-quality 1080p/4K MP4 films and YouTube Shorts with Hollywood tension curves, Mukta Malar HarfBuzz typography, and EBU R128 audio mastering.</p>
+    </td>
     <td width="50%">
       <h3 align="center">🛡️ <a href="https://github.com/apravint/toolgate">toolgate</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/AI%20Firewall-Fails%20Closed-red.svg" />
+        <img src="https://img.shields.io/badge/AI%20Firewall-Fails%20Closed-red.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Auditor-Canny%20Evidence-brightgreen.svg?style=flat-square" />
       </p>
-      <p><b>Tool-Call Firewall & Canny Evidence Ledger for Autonomous Agents</b>. Intercepts bash tool calls, answers 7 risk questions per call, fails closed on destructive commands, and audits claimed "done" states against tangible artifacts.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌲 <a href="https://github.com/apravint/agent-tree">agent-tree</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/Orchestrator-Multi--Tier-brightgreen.svg" />
-      </p>
-      <p><b>Hierarchical Multi-Tier Agent Orchestration Engine</b>. Expensive models (Opus/Pro) think and plan, coordinators (Sonnet/Flash) enforce quality gates, and cheap models (Haiku/Ollama) do the grunt work in isolated contexts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ <a href="https://github.com/apravint/smart-router">smart-router</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/Efficiency-RouteLLM%20%2B%20GPTCache-orange.svg" />
-      </p>
-      <p><b>LLM Complexity Scorer, Response Cache & Dynamic Model Router</b>. Cuts API bills by up to 85% by classifying prompt difficulty (1–10), routing simple tasks to $0 local models, and serving repeated questions in &lt;2ms from disk cache.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 <a href="https://github.com/apravint/qodex">qodex</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/Cost-%240%20Open%20Source-brightgreen.svg" />
-      </p>
-      <p><b>$0 Open-Source AI Code Reviewer & Secret Leak Gatekeeper</b>. 100+ local static security checks + AI git diff review + automated pre-push git hook. Replaces expensive $60/dev/mo commercial review tools.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎙️ <a href="https://github.com/apravint/monologue">monologue</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/Screencast-1--Key%20Instant-purple.svg" />
-      </p>
-      <p><b>Lightweight 1-Key Developer Screencast Recorder</b>. Replaces bloated OBS Studio on Linux Wayland/X11 using <code>wf-recorder</code> + PipeWire system audio, auto-copying MP4 path to clipboard.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 <a href="https://github.com/apravint/BookGeneratorAI">BookGeneratorAI</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-        <img src="https://img.shields.io/badge/Multi--Agent-Architecture-purple.svg" />
-      </p>
-      <p><b>Executive-grade multi-agent book generation engine</b> with Tamil (தமிழ்) and English support. Features hierarchical state isolation, beat-by-beat scene drafting, and adversarial anti-slop critics.</p>
+      <p><b>Tool-Call Firewall & Evidence Ledger for Autonomous Agents</b>. Intercepts bash calls, evaluates 7 risk dimensions, fails closed on destructive commands, and audits claimed "done" states against tangible artifacts.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Competencies & Skills
+## 🛠️ Technical Competencies & Specializations
 
 <div align="center">
 
-### 🤖 AI Engineering & Agent Architecture
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-Claude_Code_|_Gemini_|_Ollama-7AA2F7?style=for-the-badge)
-![Agent Frameworks](https://img.shields.io/badge/Frameworks-LangGraph_|_smolagents_|_FastMCP-FF6F61?style=for-the-badge)
-![Vector & Memory](https://img.shields.io/badge/Memory_%26_Search-Qdrant_|_Graphiti_|_Crawl4AI-00C49F?style=for-the-badge)
+### 🤖 Autonomous Agent Architecture & LLM Engineering
+![Agent Loops](https://img.shields.io/badge/Agent_Architecture-Harness%C2%B2_|_LangGraph_|_Multi--Tier_Trees-00F0FF?style=for-the-badge)
+![Protocols](https://img.shields.io/badge/Protocols-Model_Context_Protocol_(MCP)_|_FastMCP-7AA2F7?style=for-the-badge)
+![Memory & Vector](https://img.shields.io/badge/Vector_Memory-Qdrant_|_FastEmbed_|_Graphiti-05FFA1?style=for-the-badge)
+![LLM Routing](https://img.shields.io/badge/LLM_Routing-RouteLLM_|_GPTCache_|_Smart_Router-FF6F61?style=for-the-badge)
 
-### 🐧 Linux Systems & Desktop Compositors
-![Linux](https://img.shields.io/badge/Linux_Systems-Kernel_|_systemd_|_Live_ISO_Mastering-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wayland](https://img.shields.io/badge/Compositors-Hyprland_|_Waybar_|_Wofi_|_PipeWire-00A98F?style=for-the-badge)
-![Shell](https://img.shields.io/badge/Automation-Bash_|_Python_3.12_|_Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🐧 Linux Platform Engineering & Desktop Compositors
+![Linux Kernel](https://img.shields.io/badge/Linux_Systems-Kernel_6.x_|_systemd_|_Live_ISO_Mastering-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wayland Compositor](https://img.shields.io/badge/Compositors-Hyprland_0.56_|_Waybar_|_Wofi_|_PipeWire-00A98F?style=for-the-badge)
+![Spatial 3D](https://img.shields.io/badge/Spatial_3D-Three.js_|_WebGL2_|_build123d_CAD-FF006E?style=for-the-badge&logo=three.js&logoColor=white)
+![Audio DSP](https://img.shields.io/badge/Audio_DSP-PipeWire_|_WirePlumber_|_VoiceStudio-B800FF?style=for-the-badge)
 
-### 💻 Full-Stack & Systems Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java_17+_|_Spring_Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Full-Stack Languages & Toolchains
+![Python](https://img.shields.io/badge/Python_3.12%2F3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash & Shell](https://img.shields.io/badge/Shell-Bash_|_Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_|_Angular-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter_|_Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_|_GitHub_Actions_CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![Docker & CI/CD](https://img.shields.io/badge/DevOps-Docker_|_GitHub_Actions_CI%2FCD-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -136,5 +179,5 @@
 ---
 
 <div align="center">
-  <sub>Engineered with precision by <a href="https://github.com/apravint">Ayyappa Pravin</a>. Available for high-impact AI systems, Linux platform architecture, and open-source collaboration.</sub>
+  <sub>Engineered with precision by <a href="https://github.com/apravint">Ayyappa Pravin</a>. Available for high-impact AI agent systems, Linux platform architecture, and sovereign computing collaboration.</sub>
 </div>
