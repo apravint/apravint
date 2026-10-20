@@ -30,6 +30,7 @@
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │  AUTONOMOUS AGENT RUNTIME & REASONING LAYER                                            │
 │  • iram-harness2 (Cyclic State Machine: Plan -> Act -> Verify -> Reflect)             │
+│  • agent-jail (Rootless Bubblewrap Sandbox & Human-in-the-Loop Security Firewall)     │
 │  • agent-tree (Tier 1 Architect -> Tier 2 Coordinator -> Tier 3 Grunt Workers)       │
 │  • smart-router (Prompt Complexity Scorer & RouteLLM Disk Cache)                       │
 │  • toolgate (Safety Firewall & Canny Evidence Ledger)                                 │
@@ -140,6 +141,15 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">🛡️ <a href="https://github.com/apravint/agent-jail">agent-jail</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Sandbox-Bubblewrap%20bwrap-cyan.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-Zero--Docker%20Rootless-success.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gate-Human--in--the--Loop-purple.svg?style=flat-square" />
+      </p>
+      <p><b>Rootless Bubblewrap Sandbox & Security Firewall for AI Agents</b>. Isolates agent Python & Bash code actions with read-only root, protected SSH/cloud credentials, ephemeral /tmp, 15s execution timeout, and unskippable desktop authorization modals.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">🌲 <a href="https://github.com/apravint/agent-tree">agent-tree</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Architecture-Hierarchical%20Multi--Tier-brightgreen.svg?style=flat-square" />
@@ -147,6 +157,8 @@
       </p>
       <p><b>Hierarchical Multi-Tier Agent Orchestration Engine</b>. Matches task complexity to model cost (Tier 1 Opus/Pro Architect &rarr; Tier 2 Coordinator &rarr; Tier 3 Haiku/Ollama Workers) with deterministic quality gates before advancing.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">⚡ <a href="https://github.com/apravint/smart-router">smart-router</a></h3>
       <p align="center">
@@ -154,6 +166,15 @@
         <img src="https://img.shields.io/badge/Cache-Local%20Disk%20SHA--256-orange.svg?style=flat-square" />
       </p>
       <p><b>Intelligent LLM Complexity Scorer, Disk Cache & Dynamic Model Router</b>. Classifies prompt difficulty on a 1–10 scale, routes easy queries to $0 local Ollama models, and serves repeated questions from disk cache in &lt;5ms.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 <a href="https://github.com/apravint/qodex">qodex</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cost-%240%20Local-brightgreen.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scanner-Secret%20Gatekeeper-red.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/CLI-Instant%20Review-blue.svg?style=flat-square" />
+      </p>
+      <p><b>$0 Open-Source AI Code Reviewer & Secret Leak Gatekeeper</b>. Scans working trees and git diffs for high-entropy API keys, unhandled exceptions, and security vulnerabilities with automated patch proposals.</p>
     </td>
   </tr>
 </table>
