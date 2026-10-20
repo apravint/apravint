@@ -31,6 +31,7 @@
 │  AUTONOMOUS AGENT RUNTIME & REASONING LAYER                                            │
 │  • iram-harness2 (Cyclic State Machine: Plan -> Act -> Verify -> Reflect)             │
 │  • agent-jail (Rootless Bubblewrap Sandbox & Human-in-the-Loop Security Firewall)     │
+│  • lazy-agentd (Zero-Idle-RAM Systemd Socket Activation & Auto-Hibernation Engine)     │
 │  • agent-tree (Tier 1 Architect -> Tier 2 Coordinator -> Tier 3 Grunt Workers)       │
 │  • smart-router (Prompt Complexity Scorer & RouteLLM Disk Cache)                       │
 │  • toolgate (Safety Firewall & Canny Evidence Ledger)                                 │
@@ -50,6 +51,7 @@
 │  • qodex ($0 Open-Source Static Code Reviewer & Secret Gatekeeper)                     │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │  CORE DESKTOP & HARDWARE ABSTRACTION                                                   │
+│  • hypr-welcome (First-Boot Onboarding Guide) • hypr-hybrid-layout (Floating Switcher)│
 │  • Ubuntu 26.10 Stonking Stingray • Linux 6.17 • Hyprland 0.56 (0px Sharp Geometry)  │
 │  • PipeWire Studio Audio Routing & WirePlumber DSP • Live Hybrid ISO Mastering        │
 └────────────────────────────────────────────────────────────────────────────────────────┘
@@ -168,6 +170,37 @@
       <p><b>Intelligent LLM Complexity Scorer, Disk Cache & Dynamic Model Router</b>. Classifies prompt difficulty on a 1–10 scale, routes easy queries to $0 local Ollama models, and serves repeated questions from disk cache in &lt;5ms.</p>
     </td>
     <td width="50%">
+      <h3 align="center">💤 <a href="https://github.com/apravint/lazy-agentd">lazy-agentd</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RAM-0MB%20Idle-brightgreen.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Systemd-Socket%20Activated-orange.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hibernate-Auto%2015m-blue.svg?style=flat-square" />
+      </p>
+      <p><b>Zero-Idle-RAM Systemd Socket Activation & Auto-Hibernation Engine</b>. Spawns local AI, vector retrieval, and MCP daemons in &lt;120ms when packets arrive, and cleanly terminates after 15m of dormancy to free GPU/RAM.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 <a href="https://github.com/apravint/hypr-welcome">hypr-welcome</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/UI-PyGObject%20GTK3-cyan.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Compositor-Hyprland-brightgreen.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audit-Hardware%20Diagnostics-purple.svg?style=flat-square" />
+      </p>
+      <p><b>Aesthetic First-Boot Onboarding Guide & Hardware Diagnostics Dashboard</b>. Eliminates the tiling window manager learning curve with interactive keybinding cards, live GPU acceleration check, and session state tracking.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🪟 <a href="https://github.com/apravint/hypr-hybrid-layout">hypr-hybrid-layout</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Layout-Tiling%20%E2%86%94%20Floating-blue.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Reload-Zero--Restart-00F0FF.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
+      </p>
+      <p><b>Zero-Restart 1-Click Tiling &harr; Traditional Floating Desktop Switcher</b>. Switches Hyprland between sharp geometric tiling and traditional rounded floating windows in &lt;50ms without restarting the session.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🔍 <a href="https://github.com/apravint/qodex">qodex</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Cost-%240%20Local-brightgreen.svg?style=flat-square" />
@@ -175,6 +208,15 @@
         <img src="https://img.shields.io/badge/CLI-Instant%20Review-blue.svg?style=flat-square" />
       </p>
       <p><b>$0 Open-Source AI Code Reviewer & Secret Leak Gatekeeper</b>. Scans working trees and git diffs for high-entropy API keys, unhandled exceptions, and security vulnerabilities with automated patch proposals.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ <a href="https://github.com/apravint/adversarial-pre-push">adversarial-pre-push</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Phases-6--Stage%20Audit-red.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Hunter%20%7C%20Verifier-orange.svg?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gate-Pre--Push%20Blocking-purple.svg?style=flat-square" />
+      </p>
+      <p><b>6-Phase Adversarial Security Audit Git Hook</b>. Dual-stage Hunter/Verifier architecture blocking accidental credential leaks, unhandled code evaluation seams, and unsafe shell injections prior to git push.</p>
     </td>
   </tr>
 </table>
