@@ -239,6 +239,11 @@
 ![Spatial 3D](https://img.shields.io/badge/Spatial_3D-Three.js_|_WebGL2_|_build123d_CAD-FF006E?style=for-the-badge&logo=three.js&logoColor=white)
 ![Audio DSP](https://img.shields.io/badge/Audio_DSP-PipeWire_|_WirePlumber_|_VoiceStudio-B800FF?style=for-the-badge)
 
+### 📱 Android Platform & Mobile Engineering
+![Android SDK](https://img.shields.io/badge/Android_15-Target_SDK_35_|_Edge--to--Edge_|_Predictive_Back-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile_Apps-Time_v2.1_|_Mira_Browser_|_Mira_Math_AI-00F0FF?style=for-the-badge)
+![PWA Demos](https://img.shields.io/badge/Live_PWA_Demos-GitHub_Pages_Deploys-FF006E?style=for-the-badge&logo=pwa&logoColor=white)
+
 ### 💻 Full-Stack Languages & Toolchains
 ![Python](https://img.shields.io/badge/Python_3.12%2F3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash & Shell](https://img.shields.io/badge/Shell-Bash_|_Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
