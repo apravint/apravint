@@ -14,8 +14,10 @@
   <a href="mailto:apravint@gmail.com"><img src="https://img.shields.io/badge/Email-apravint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/apravint"><img src="https://img.shields.io/badge/GitHub-apravint-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/apravint/iram-os"><img src="https://img.shields.io/badge/Flagship-IRAM%20OS%20v26.10-00F0FF?style=for-the-badge&logo=linux&logoColor=black" alt="IRAM OS" /></a>
+  <a href="https://apravint.github.io/iram-docs/"><img src="https://img.shields.io/badge/Docs-IRAM%20OS%20Portal-06b6d4?style=for-the-badge&logo=gitbook&logoColor=white" alt="IRAM OS Docs" /></a>
   <a href="https://github.com/apravint/fastmcp-linux-desktop"><img src="https://img.shields.io/badge/FastMCP-Linux%20Desktop-purple.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastMCP Desktop" /></a>
-  <a href="https://github.com/apravint/hypr-doctor"><img src="https://img.shields.io/badge/Doctor-Hyprland%200.56-05FFA1?style=for-the-badge&logo=gnubash&logoColor=black" alt="Hypr Doctor" /></a>
+  <a href="https://pypi.org/project/fastmcp-linux-desktop/"><img src="https://img.shields.io/pypi/v/fastmcp-linux-desktop.svg?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
+  <a href="https://www.pravintamilan.com"><img src="https://img.shields.io/badge/Website-pravintamilan.com-05FFA1?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
 </p>
 
 </div>
@@ -80,7 +82,8 @@
     <td width="50%">
       <h3 align="center">🖥️ <a href="https://github.com/apravint/fastmcp-linux-desktop">fastmcp-linux-desktop</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastMCP-2.0+-purple.svg?style=flat-square" />
+        <a href="https://pypi.org/project/fastmcp-linux-desktop/"><img src="https://img.shields.io/pypi/v/fastmcp-linux-desktop.svg?style=flat-square" alt="PyPI v0.1.0" /></a>
+        <a href="https://glama.ai/mcp/servers/apravint/fastmcp-linux-desktop"><img src="https://glama.ai/mcp/servers/apravint/fastmcp-linux-desktop/badges/score.svg" alt="Glama Score" /></a>
         <img src="https://img.shields.io/badge/Tools-28%20Native%20APIs-00F0FF.svg?style=flat-square" />
         <img src="https://img.shields.io/badge/Transport-Stdio%20%7C%20SSE-brightgreen.svg?style=flat-square" />
       </p>
